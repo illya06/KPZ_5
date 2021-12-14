@@ -1,0 +1,91 @@
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\Views\ClothesUserControl.g.cs
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\Views\SupplierUserControl.g.cs
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\App.g.cs
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.cache
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.lref
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\bin\Debug\KPZ_5.exe.config
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\bin\Debug\KPZ_5.exe
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\bin\Debug\KPZ_5.pdb
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\bin\Debug\AutoMapper.dll
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\bin\Debug\AutoMapper.xml
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\Views\ClothesUserControl.baml
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\Views\MainWindow.baml
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\Views\SupplierUserControl.baml
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.g.resources
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.Properties.Resources.resources
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.GenerateResource.cache
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.CopyComplete
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.exe
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.pdb
+C:\Users\Pavlo\source\repos\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csprojAssemblyReference.cache
+C:\code\c#\KPZ_5\KPZ_5\bin\Debug\KPZ_5.exe.config
+C:\code\c#\KPZ_5\KPZ_5\bin\Debug\KPZ_5.exe
+C:\code\c#\KPZ_5\KPZ_5\bin\Debug\KPZ_5.pdb
+C:\code\c#\KPZ_5\KPZ_5\bin\Debug\AutoMapper.dll
+C:\code\c#\KPZ_5\KPZ_5\bin\Debug\AutoMapper.xml
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.AssemblyReference.cache
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\Views\ClothesUserControl.g.cs
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\Views\MainWindow.g.cs
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\Views\SupplierUserControl.g.cs
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\App.g.cs
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.cache
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.lref
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\Views\ClothesUserControl.baml
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\Views\MainWindow.baml
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\Views\SupplierUserControl.baml
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.g.resources
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.Properties.Resources.resources
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.GenerateResource.cache
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.CoreCompileInputs.cache
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.csproj.CopyComplete
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.exe
+C:\code\c#\KPZ_5\KPZ_5\obj\Debug\KPZ_5.pdb
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.AssemblyReference.cache
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\Views\MainWindow.g.cs
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\App.g.cs
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.cache
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.lref
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.exe
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.pdb
+C:\code\c#\lab5_kpz\KPZ_5\bin\Debug\KPZ_5.exe.config
+C:\code\c#\lab5_kpz\KPZ_5\bin\Debug\KPZ_5.exe
+C:\code\c#\lab5_kpz\KPZ_5\bin\Debug\KPZ_5.pdb
+C:\code\c#\lab5_kpz\KPZ_5\bin\Debug\AutoMapper.dll
+C:\code\c#\lab5_kpz\KPZ_5\bin\Debug\AutoMapper.xml
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\Views\MainWindow.baml
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.g.resources
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.Properties.Resources.resources
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.GenerateResource.cache
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.CoreCompileInputs.cache
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.CopyComplete
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\Views\AccountsUserControl.g.cs
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\Views\AccountsUserControl.baml
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\Views\CasesUserControl.g.cs
+C:\code\c#\lab5_kpz\KPZ_5\obj\Debug\Views\CasesUserControl.baml
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.AssemblyReference.cache
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\Views\CasesUserControl.g.cs
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\Views\MainWindow.g.cs
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\Views\AccountsUserControl.g.cs
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\App.g.cs
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.cache
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5_MarkupCompile.lref
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.exe
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.pdb
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\Views\CasesUserControl.baml
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\Views\MainWindow.baml
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\Views\AccountsUserControl.baml
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.g.resources
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\bin\Debug\KPZ_5.exe.config
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\bin\Debug\KPZ_5.exe
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\bin\Debug\KPZ_5.pdb
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\bin\Debug\AutoMapper.dll
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\bin\Debug\AutoMapper.xml
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.Properties.Resources.resources
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.GenerateResource.cache
+C:\Users\ishevchu\OneDrive - SoftServe, Inc\Desktop\lab5_kpz\KPZ_5\obj\Debug\KPZ_5.csproj.CoreCompileInputs.cache
